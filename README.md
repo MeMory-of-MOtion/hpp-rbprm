@@ -2,9 +2,9 @@
 General discussions about HPP for contact generation.
 
 # Papers
- HPP: a new software for constrained motion planning (IROS 2016): https://hal.archives-ouvertes.fr/hal-01290850
- An efficient acyclic contact planner for multiped robots (TRO 2018): https://hal.archives-ouvertes.fr/hal-01267345
- A Kinodynamic steering-method for legged multi-contact locomotion (IROS 2017): https://hal.archives-ouvertes.fr/hal-01486933
+- HPP: a new software for constrained motion planning (IROS 2016): https://hal.archives-ouvertes.fr/hal-01290850
+- An efficient acyclic contact planner for multiped robots (TRO 2018): https://hal.archives-ouvertes.fr/hal-01267345
+- A Kinodynamic steering-method for legged multi-contact locomotion (IROS 2017): https://hal.archives-ouvertes.fr/hal-01486933
 
 # Version
 The current version of hpp-rbprm works with ubuntu 14.04.
